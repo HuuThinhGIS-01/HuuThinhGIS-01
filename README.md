@@ -8,7 +8,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=4FACFE" alt="Python" height="80"/>
+  <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=4FACFE" alt="Python" height="150"/>
   <img src="https://img.shields.io/badge/Github-282C34?logo=Github&logoColor=764BA2" alt="Github" height="40"/>
   <img src="https://img.shields.io/badge/Discord-282C34?logo=Discord&logoColor=5865F2" alt="Discord" height="40"/>
   <img src="https://img.shields.io/badge/Rit-282C34?logo=Git&logoColor=F05032" alt="Git" height="40"/>
@@ -35,15 +35,15 @@
     <img src="https://img.icons8.com/?size=100&id=z657ovoGgS2o&format=png&color=000000" width="100" alt="Facebook"/>
   </a>
   <a href="https://github.com/HuuThinhGIS-01" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="50" alt="GitHub"/>
+    <img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="80" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/th%E1%BB%8Bnh-h%E1%BB%AFu-0b5b03385/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" width="50" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" width="100" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/_h_thinh_/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" width="50" alt="Instagram"/>
+    <img src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" width="80" alt="Instagram"/>
   </a>
   <a href="mailto:Thinhnehihi2006@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=Iq5AZypojpBD&format=png&color=000000" width="50" alt="Email"/>
+    <img src="https://img.icons8.com/?size=100&id=Iq5AZypojpBD&format=png&color=000000" width="100" alt="Email"/>
   </a>
 </p>
