@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/huu.thinh.67749" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=z657ovoGgS2o&format=png&color=000000" width="50" alt="Facebook"/>
+    <img src="https://img.icons8.com/?size=100&id=z657ovoGgS2o&format=png&color=000000" width="100" alt="Facebook"/>
   </a>
   <a href="https://github.com/HuuThinhGIS-01" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="50" alt="GitHub"/>
