@@ -8,7 +8,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=4FACFE" alt="Python" height="40"/>
+  <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=4FACFE" alt="Python" height="80"/>
   <img src="https://img.shields.io/badge/Github-282C34?logo=Github&logoColor=764BA2" alt="Github" height="40"/>
   <img src="https://img.shields.io/badge/Discord-282C34?logo=Discord&logoColor=5865F2" alt="Discord" height="40"/>
   <img src="https://img.shields.io/badge/Rit-282C34?logo=Git&logoColor=F05032" alt="Git" height="40"/>
