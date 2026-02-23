@@ -91,7 +91,7 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          <span class="animated-text">𝙃𝙄 𝙂𝙐𝙔𝙎 </span> <br/> I'm <span class="animated-text">𝕋𝕙𝕚̣𝕟𝕙</span>.<br/>I'm currently majoring a student at <span class="animated-text">𝙂𝙄𝙎</span> at <span class="animated-text">𝓝𝓛𝓤</span>.
+          <span class="animated-text">𝙃𝙄 𝙂𝙐𝙔𝙎 </span> <br/> I'm <span class="animated-text">𝕋𝕙𝕚̣𝕟𝕙</span>.<br/>I'm currently a<span class="animated-text">𝙂𝙄𝙎 student</span> at <span class="animated-text">𝓝𝓛𝓤</span>.
         </div>
         <div class="skills">
           <div class="skills_icon">
@@ -120,4 +120,5 @@
 		</div>
 	</foreignObject>
 </svg>
+
 
