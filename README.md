@@ -25,7 +25,7 @@
   </a>
   <!-- GitHub stats -->
   <a href="#" title="HuuThinh">
-      <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=HuuThinhGIS-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+      <img align="right" width="434" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHuuThinhGIS-01%26theme%3Dtokyonight"/>
   </a>
 </div>
 
