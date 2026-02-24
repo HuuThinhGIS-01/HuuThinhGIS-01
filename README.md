@@ -3,7 +3,7 @@
   <img src="svg/HuuThinh.svg" width="1500" alt="huuthinh-official" />
 </p>
 
-<h2 align="center">🛠 I'm a newbie 🛠</h2>
+<h2 align="center">🛠 Xin Chào :>>> 🛠</h2>
 <br>
 
 <!-- Badges -->
