@@ -1,6 +1,6 @@
 <!-- Avatar / Banner -->
 <p align="center">
-  <img src="svg/HuuThinh.svg" width="1200" alt="huuthinh-official" />
+  <img src="svg/HuuThinh.svg" width="1500" alt="huuthinh-official" />
 </p>
 
 <h2 align="center">🛠 I'm a newbie 🛠</h2>
