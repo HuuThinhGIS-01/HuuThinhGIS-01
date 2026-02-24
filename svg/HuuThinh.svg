@@ -77,12 +77,12 @@
           gap: 50px;
         }
         .skills_icon>img {
-          width: 100px;
+          width: 85px;
           height: 85px;
         }
 		
         .skills_icon.nodejs>img {
-          width: 74px;
+          width: 200px;
         }
         .animated-text {
           animation: rainbow-text-animation 5s linear infinite;
@@ -126,6 +126,7 @@
 		</div>
 	</foreignObject>
 </svg>
+
 
 
 
