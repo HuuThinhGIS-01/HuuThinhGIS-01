@@ -81,8 +81,8 @@
           height: 80px;
         }
 		.skill_icon1>img {
-		  width:85px
-		  height:85px
+		  width:80px
+		  height:80px
 		}
         .skills_icon.nodejs>img {
           width: 74px;
@@ -129,6 +129,7 @@
 		</div>
 	</foreignObject>
 </svg>
+
 
 
 
