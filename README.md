@@ -21,11 +21,11 @@
 <div align="center">
   <!-- Most used languages -->
   <a href="#" title="HuuThinh">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuuThinhGIS-01&langs_count=8"/>
+      <img height="180" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuuThinhGIS-01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
   </a>
   <!-- GitHub stats -->
   <a href="#" title="HuuThinh">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=HuuThinhGIS-01&theme=tokyonight&show_icons=true"/>
+      <img height="180" src="[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuuThinhGIS-01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
   </a>
 </div>
 
