@@ -72,9 +72,9 @@
           white-space: nowrap;
         }
 				.skills {
-          display: flex;
+          display: inline-flex;
           margin: 30px 0 0 100px;
-          gap: 10px;
+          gap: 50px;
         }
         .skills_icon>img {
           width: 85px;
@@ -126,6 +126,7 @@
 		</div>
 	</foreignObject>
 </svg>
+
 
 
 
