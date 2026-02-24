@@ -20,10 +20,13 @@
 
 <div align="center">
   <!-- Most used languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuuThinhGIS-01&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
-  
+  <a> href="#" title="HuuThinh"
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuuThinhGIS-01&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
+  </a>
   <!-- GitHub stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HuuThinhGIS-01&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true"/>
+  <a>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HuuThinhGIS-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
 ---
