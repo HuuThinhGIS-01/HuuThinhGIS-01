@@ -77,7 +77,7 @@
           gap: 50px;
         }
         .skills_icon>img {
-          width: 85px;
+          width: 100px;
           height: 85px;
         }
 		
@@ -126,6 +126,7 @@
 		</div>
 	</foreignObject>
 </svg>
+
 
 
 
