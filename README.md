@@ -16,20 +16,6 @@
 
 ---
 
-<h2 align="center"> 🔥 GitHub Stats 🔥 </h2>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuuThinhGIS-01&layout=compact&theme=radical" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=HuuThinhGIS-01&show_icons=true&tokyonight=radical" />
-  </a>
-</div>
-
----
-
 <h2 align="center">🔥 Contact for me 🔥</h2>
 
 <p align="center">
