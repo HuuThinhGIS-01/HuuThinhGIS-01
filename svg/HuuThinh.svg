@@ -74,7 +74,7 @@
 				.skills {
           display: inline-flex;
           margin: 30px 0 0 100px;
-          gap: 50px;
+          gap: 10px;
         }
         .skills_icon>img {
           width: 85px;
@@ -82,7 +82,7 @@
         }
 		
         .skills_icon.nodejs>img {
-          width: 200px;
+          width: 74px;
         }
         .animated-text {
           animation: rainbow-text-animation 5s linear infinite;
@@ -126,6 +126,7 @@
 		</div>
 	</foreignObject>
 </svg>
+
 
 
 
