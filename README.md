@@ -16,16 +16,15 @@
 
 ---
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center"> 🔥 GitHub Stats 🔥 </h2>
 
 <div align="center">
-  <!-- Most used languages -->
-  <a href="#" title="HuuThinh">
-      <img height="180" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuuThinhGIS-01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuuThinhGIS-01&layout=compact&theme=radical" />
   </a>
-  <!-- GitHub stats -->
-  <a href="#" title="HuuThinh">
-      <img height="180" src="[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuuThinhGIS-01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=HuuThinhGIS-01&show_icons=true&tokyonight=radical" />
   </a>
 </div>
 
