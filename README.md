@@ -31,7 +31,7 @@
   <a href="https://www.instagram.com/_h_thinh_/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" width="80" alt="Instagram"/>
   </a>
-  <a href="mailto:huuthinhng2006@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=Iq5AZypojpBD&format=png&color=000000" width="100" alt="Email"/>
   </a>
 </p>
